@@ -55,7 +55,7 @@ The study aims to gain comprehensive understanding and give recommendations on t
 - Notable decline in revenue for bicycle sales
 - Alster Cycling's revenue from bicycles represents a decline of 70.6%
 - Red Light Bikes experienced a decline in revenue around 79.5%
-- 
+  
 ![image](https://github.com/NguHE/Global-Bike-Inc.-Declining-Revenue-in-Hamburg-Germany-2006-2009-/assets/125574265/8b9b7566-83de-4947-ad2e-954a5e90a5d0)
 
 - Deluxe Touring Bike (black) accounted for the lowest revenue among the products sold by Red Light Bikes
